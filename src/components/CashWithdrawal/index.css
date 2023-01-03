@@ -1,0 +1,84 @@
+/* Write your CSS here */
+
+.under-container {
+  display: flex;
+
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.sum-description {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #585076;
+  font-size: 16px;
+}
+.withdraw-heading {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #c4c4c4;
+  font-size: 26px;
+}
+
+.rupees-description {
+  color: #382f5a;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 600;
+}
+.amount-heading {
+  color: #c4c4c4;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.your-balance-para {
+  color: #585076;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  margin-right: auto;
+}
+.balance-container {
+  display: flex;
+
+  justify-content: space-around;
+}
+.sarah-heading {
+  color: #d4d2db;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 400;
+  margin: 25px;
+}
+.heading-s {
+  background-color: #c7d2fe;
+  padding: 20px;
+  width: 60px;
+  font-size: 15px;
+  text-align: center;
+  color: #7c3aed;
+  border-radius: 60px;
+  font-family: 'Roboto';
+}
+.name-container {
+  display: flex;
+  margin-top: 6px;
+  padding-top: 15px;
+}
+
+.bg-container {
+  background-color: #150b3e;
+  height: 500px;
+  width: 450px;
+  border-radius: 14px;
+  padding: 50px;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
